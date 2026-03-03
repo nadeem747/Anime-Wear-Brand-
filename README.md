@@ -23,7 +23,6 @@ pioneering anime apparel brand based in Egypt, born from the idea that clothing 
 
 ---
 
-Markdown
 ## Project Objectives
 - **Establish Brand Credibility:** Position the brand as the most unique and reputable anime streetwear label in Egypt right out of the gate.
 - **Drive Revenue Growth:** Achieve a 15% month-over-month increase in sales following the initial launch phase.
