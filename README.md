@@ -20,9 +20,8 @@ We are Egypt's most unique and reputable anime apparel brand. Our mission is to 
 
 ## Project Overview
 pioneering anime apparel brand based in Egypt, born from the idea that clothing should be more than just fabric—it should be an experience. We move beyond standard merchandise by creating narrative-driven designs that capture the essence, environment, and emotion of beloved anime worlds.
----
 
-Here is the adapted version, tailored specifically for your anime wear brand’s vision and formatted in clean GitHub Markdown so you can drop it straight into your repository or project management tool.
+---
 
 Markdown
 ## Project Objectives
