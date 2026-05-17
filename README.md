@@ -147,6 +147,6 @@
 
 ---
 <div align="center">
-  <b>Anime Wear Brand — Internal Strategic Document v2.0</b><br>
+  <b>
   تطوير وإعداد فريق العمل للمثول أمام المنظمة ومراجعة المهندس سامح إبراهيم.
 </div>
