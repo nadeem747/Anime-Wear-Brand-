@@ -1,4 +1,4 @@
-# 🎌 Anime Wear Brand — Project Launch Hub 🚀
+# [🎌 Furei フレイ Anime Wear Brand — Project Launch Hub 🚀](https://nadeem747.github.io/Furei-Anime-Wear-Brand-/)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Project-Anime_Wear_Brand-7c6fff?style=for-the-badge&logo=retroarch&logoColor=white" alt="Project Badge">
